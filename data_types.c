@@ -38,4 +38,5 @@ int main(void)
 			printf("*%s* is not a valid basic C data typee\n", choice);
 	} while (strcmp(choice, "0") != 0);
 
+	return (0);
 }
