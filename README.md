@@ -16,4 +16,7 @@ The simple shell project is a simple UNIX command language interpreter that read
 - Write a README with the description of your project
 - You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker
 
-
+AUTHORS
+-------
+Bonaventure Anselm <bona.anslem@gmail.com>
+Beatrice Solomon <Bee1998888@gmai.com>
